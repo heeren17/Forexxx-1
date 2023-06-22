@@ -1,4 +1,4 @@
-package com.vickyhadisaputra202102353.forexx;
+package com.fahmidwipamane202102364.forexx;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.vickyhadisaputra202102353.forexx", appContext.getPackageName());
+        assertEquals("com.fahmidwipamane202102364.forexx", appContext.getPackageName());
     }
 }

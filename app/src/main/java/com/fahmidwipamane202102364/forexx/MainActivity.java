@@ -1,4 +1,4 @@
-package com.vickyhadisaputra202102353.forexx;
+package com.fahmidwipamane202102364.forexx;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
@@ -11,6 +11,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
+import com.fahmidwipamane202102364.forexx.R;
 
 import java.text.DecimalFormat;
 

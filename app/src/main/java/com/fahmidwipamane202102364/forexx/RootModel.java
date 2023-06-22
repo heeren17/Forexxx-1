@@ -1,4 +1,4 @@
-package com.vickyhadisaputra202102353.forexx;
+package com.fahmidwipamane202102364.forexx;
 
 import com.google.gson.annotations.SerializedName;
 

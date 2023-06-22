@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.vickyhadisaputra202102353.forexx'
+    namespace 'com.fahmidwipamane202102364.forexx'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.vickyhadisaputra202102353.forexx"
+        applicationId "com.fahmidwipamane202102364.forexx"
         minSdk 24
         targetSdk 33
         versionCode 1
